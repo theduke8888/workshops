@@ -1,0 +1,20 @@
+body {
+  background: url('http://res.cloudinary.com/gibetirol/image/upload/v1512711876/background_dylsma.jpg');
+  margin-top: 30px;
+}
+.jumbotron{
+  /*background-color: #ffffff;*/
+  background-color: rgba(141,52,52,.8);
+    color: #EACD65;
+  border-radius: 20px;
+}
+h1 {
+  font-size: 8em;
+  text-align: center;
+}
+@media(max-width: 480px) {
+  h1 {
+    font-size: 2em;
+
+  }
+}
